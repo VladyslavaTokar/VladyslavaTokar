@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-Hi! I am Vladyslava Tokar.  I am 22 y.o. and I love coffee, books and learning something new every day! I have been studying Web Development for 3 years now and recently I have discovered a new passion for me - Web Design!  
+Hi! I am Vladyslava Tokar. I'm a front-end developer with apassion for coding, reading, and web design. I love learning new front-end tricks and keeping up with design trends. When I'm not immersed in tech, you can find me at the gym or out for a run.
 
 📫 Contact:
 <div> tokarvladyslava@gmail.com
